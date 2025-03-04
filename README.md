@@ -20,7 +20,7 @@ substituir loops e a estrutura `switch-case`, tornando o código mais limpo e de
 ## 📌 Confira meu artigo no DEV.to
 
 Para aprender mais sobre Java e ver exemplos de exercícios práticos, confira meu artigo no 
-[DEV.to](https://dev.to/vitorpaiola/lista-de-exercicios-basicos-em-java-part-3-49b7)! 🚀 No artigo, 
+[DEV.to](https://dev.to/vitorpaiola/lista-de-exercicios-basicos-em-java-part-4-5fl0)! 🚀 No artigo, 
 compartilho soluções de problemas comuns e discuto técnicas para melhorar o código Java, 
 além de apresentar exemplos de uso de estruturas condicionais, loops e manipulação de dados.
 

@@ -355,18 +355,18 @@ Verifica se uma quantidade de números desejados é divisível por 3 e por 5 ao 
 **Entrada:**
 ```java
 Quantos números deseja verificar? 4
-Digite o número 1: 15
-Digite o número 2: 9
-Digite o número 3: 10
-Digite o número 4: 7
+Digite o numero 1: 15
+Digite o numero 2: 9
+Digite o numero 3: 10
+Digite o numero 4: 7
 ```
 
 **Saída:**
 ```java
-Número 15: Divisível por 3 e por 5
-Número 9: Divisível apenas por 3
-Número 10: Divisível apenas por 5
-Número 7: Não é divisível por 3 nem por 5.
+Numero 15: Divisivel por 3 e por 5
+Numero 9: Divisivel apenas por 3
+Numero 10: Divisivel apenas por 5
+Numero 7: Nao e divisivel por 3 nem por 5.
 ```
 
 ## 📌 Quer acompanhar mais dicas e novidades sobre Java?

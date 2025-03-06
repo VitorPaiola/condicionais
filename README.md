@@ -1,5 +1,7 @@
 # 📌 Estruturas Condicionais e Manipulação de Dados em Java
 
+![java-6](https://github.com/user-attachments/assets/303ed03d-0bad-40d3-b27d-4f510a90a895)
+
 Este repositório contém diversos programas em Java que exploram o uso de estruturas condicionais
 e manipulação de dados, realizando operações como iteração sobre objetos, verificação de condições 
 com `if-else`, uso de arrays, e captura de exceções com `try-catch`. Além disso, os programas utilizam
